@@ -1,0 +1,4 @@
+#Wed Feb 02 14:28:53 BRT 2022
+base.0=/Users/guilherme.vendramini/apps/flutter/clean-arc/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
